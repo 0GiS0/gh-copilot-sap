@@ -1,9 +1,9 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/typescript-node
 {
-	"name": "Node.js & TypeScript",
+	"name": "SAP labs with GitHub Copilot",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/typescript-node:1-20-bullseye",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {},
@@ -12,13 +12,25 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "npm install --global @ui5/cli",
+	// "postCreateCommand": "npm install --global @ui5/cli",
 	"customizations": {
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
 				"GitHub.copilot-chat",
-				"GitHub.copilot-labs"
+				"GitHub.copilot-labs",
+				"shd101wyy.markdown-preview-enhanced",
+				"yzhang.markdown-all-in-one",
+				"SAPSE.sap-ux-help-extension",
+				"SAPSE.sap-ux-application-modeler-extension",
+				"SAPSE.sap-ux-annotation-modeler-extension",
+				"SAPSE.sap-ux-service-modeler-extension",
+				"SAPSE.sap-ux-fiori-tools-extension-pack",
+				"SAPSE.vscode-cds",
+				"SAPOSS.sap-guided-answers-extension",
+				"SAPOSS.app-studio-toolkit",
+				"SAPOSS.sap-hana-driver-for-sqltools",
+				"SAPOSS.app-studio-remote-access"
 			]
 		}
 	}

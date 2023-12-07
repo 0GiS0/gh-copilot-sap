@@ -12,49 +12,42 @@ Para poder ejecutar estas demos necesitas:
 
 ### General
 
-1. ¿Qué es SAP? 🤔
+1. **¿Qué es SAP?** 🤔
 
-2. ¿Qué tipos de desarrollos hay en SAP? 🤔
+2. **¿Qué tipos de desarrollos hay en SAP?** 🤔
 
-<img src="images/GH opilot Chat - Tipos de desarrollo en SAP - Parte 1.png" width="50%">
+<img src="images/Qué tipos de desarrollo hay en SAP.png" width="50%" />
 
-<img src="images/GH opilot Chat - Tipos de desarrollo en SAP - Parte 2.png" width="50%">
 
 ### Desarrollo de aplicaciones web con SAPUI5
 
-3. ¿Cómo puedo crear una aplicación SAPUI5? 🤔
+3. **¿Cómo puedo crear una aplicación SAPUI5?** 🤔
 
-<img src="images/GH Copilot Chat - Cómo crear una app SAPUI5.png" width="50%">
+<img src="images/GH Copilot Chat - Cómo crear una app SAPUI5.png" width="50%" />
 
-4. También puedo preguntarle por errores
+4. **También puedo preguntarle por errores**
 
 <img src="images/GH Copilot Chat - Error SAPUI5.png" width="50%" />
 
-4. ¿Cómo instalo SAPUI5 en mi máquina? 🤔
+5. **¿Cómo instalo SAPUI5 en mi máquina?** 🤔
 
-<img src="images/GH Copilot Chat - Cómo instalar la CLI de SAPUI5.png" width="50%">
+<img src="images/GH Copilot Chat - Cómo instalar la CLI de SAPUI5.png" width="50%" />
 
-5. ¿Qué tengo que hacer después de ui5 init? 🤔
+6. **¿Cómo puedo agregar vistas y controladores a mi aplicación SAPUI5?**
 
-6. ¿Cómo puedo agregar vistas y controladores a mi aplicación SAPUI5?
-
-<img src="images/GH Copilot Chat - SAPUI5 vistas y controladores - parte 1.png" width="50%">
-<img src="images/GH Copilot Chat - SAPUI5 vistas y controladores - parte 2.png" width="50%">
+<img src="images/GH Copilot Chat - SAPUI5 vistas y controladores - parte 1.png" width="50%" />
+<img src="images/GH Copilot Chat - SAPUI5 vistas y controladores - parte 2.png" width="50%" />
 
 7. ¿Cómo ejecuto mi aplicación SAPUI5?
 
-8. Le cuento mis problemas 😭
+8. **¿Qué extensiones tiene Visual Studio Code para desarrollar SAPUI5?** 🤔
 
-<img src="images/GH Copilot Chat - Listado de elementos en lugar de servir la web - Parte 1.png" width="50%" />
-<img src="images/GH Copilot Chat - Listado de elementos en lugar de servir la web - Parte 2.png" width="50%" />
+<img src="images/Extensiones para desarrollar SAPUI5.png" width="50%" />
 
-8. ¿Cómo puedo conectar mi aplicación SAPUI5 a un backend?
-
-9. ¿Cómo puedo desplegar mi aplicación SAPUI5 en un servidor?
 
 ### Desarrollo ABAP
 
-1. ¿Cómo puedo crear un programa ABAP? 🤔
+1. **¿Cómo puedo crear un programa ABAP?** 🤔
 
 <img src="images/GH Copilot Chat - Crear un programa ABAP.png" width="50%">
 
@@ -62,11 +55,11 @@ Para poder ejecutar estas demos necesitas:
 
 <img src="images/GH Copilot Chat - Qué hace este código ABAP.png" width="50%" />
 
-3. Usando el mismo archivo ¿Puedes hacer test unitarios en ABAP? 🤔
+3. Usando el mismo archivo **¿Puedes hacer test unitarios en ABAP?** 🤔
 
 <img src="images/GH Copilot Chat - Test unitarios en ABAP.png" width="50%" />
 
-4. ¿Cómo puedo consumir una API REST con autenticación OAuth en ABAP? 🤔
+4. **¿Cómo puedo consumir una API REST con autenticación OAuth en ABAP?** 🤔
 
 <img src="images/GH Copilot Chat - Cómo consumir API REST con OAuth en ABAP.png" width="50%">
 
